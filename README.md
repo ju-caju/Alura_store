@@ -8,15 +8,15 @@ Realizar uma análise exploratória de dados utilizando métricas estratégicas 
 
 ## 📊 Faturamento total
 
-####⭐ Média de avaliação dos clientes
+⭐ Média de avaliação dos clientes
 
-####🚚 Custo médio do frete
+🚚 Custo médio do frete
 
-####🛍️ Categoria de produto mais popular
+🛍️ Categoria de produto mais popular
 
-####🔼 Produto mais vendido
+🔼 Produto mais vendido
 
-####🔽 Produto menos vendido
+🔽 Produto menos vendido
 
 Com base nessas informações, gerar gráficos comparativos e um relatório com a recomendação final da loja a ser vendida.
 
