@@ -1,6 +1,6 @@
-# Alura_store
+# store_data_store
 
-## 🛒 Análise de Desempenho de Lojas - Alura Store
+## 🛒 Análise de Desempenho de Lojas - Store
 Este projeto tem como objetivo analisar os dados de vendas de quatro lojas do e-commerce fictício Alura Store, com o propósito de identificar qual loja tem o menor desempenho e, com base nisso, recomendar ao Sr. João (dono da rede) qual loja ele deve vender para obter capital e investir em um novo negócio.
 
 ## 📌 Objetivo
@@ -94,7 +94,7 @@ Clone este repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/alura-store-analise.git
+git clone https://github.com/ju-caju/alura-store-analise.git
 cd alura-store-analise
 Instale as dependências (opcional com virtualenv):
 
